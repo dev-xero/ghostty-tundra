@@ -50,14 +50,14 @@ I've only tested this on Ghostty v1.1.3 on Debian (stable)
 
 3. Paste the contents of the palette above.
 
-5. Create the config file if it doesn't exist.
+4. Create the config file if it doesn't exist.
 
     ```bash
     cd ~/.config/ghostty
-    touch config               # skip this line if it already exists
+    touch config  # skip this line if it already exists
     ```
 
-6. Set your ghostty theme to Tundra:
+5. Set your ghostty theme to Tundra.
    
     ```ini
     theme = Tundra
