@@ -48,7 +48,7 @@ I've only tested this on Ghostty v1.1.3 on Debian (stable)
     touch Tundra
     ```
 
-3. Paste the contents of the palette above.
+3. Paste the contents of the palette above or just copy the file.
 
 4. Create the config file if it doesn't exist.
 
@@ -57,7 +57,7 @@ I've only tested this on Ghostty v1.1.3 on Debian (stable)
     touch config  # skip this line if it already exists
     ```
 
-5. Set your ghostty theme to Tundra.
+5. Set your Ghostty theme to Tundra in the config file.
    
     ```ini
     theme = Tundra
